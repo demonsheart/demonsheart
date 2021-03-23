@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on shenzhen
 - 🌱 I’m currently learning java
-- 💬 Ask me about ...
+- 💬 Ask me about beautiful girls
 - 📫 How to reach me: 2509875617@qq.com
 
 
