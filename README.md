@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![](https://visitor-badge.glitch.me/badge?page_id=demonsheart.readme)
 ![](http://antzuhl.cn:4000/get/@demonsheart.readme)
+
+-->
 ![info](https://github-readme-stats.vercel.app/api?username=demonsheart&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
