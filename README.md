@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=demonsheart.readme)
 -->
 - 🔭 I’m currently working on shenzhen
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning ios
 - 💬 Ask me about beautiful girls
 - 📫 How to reach me: 2509875617@qq.com
 
